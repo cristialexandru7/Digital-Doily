@@ -3,7 +3,7 @@ A Java application that creates a Graphical User Interface for drawing Digital D
 
 A digital doily is a repeated pattern of mouse drawn graphics intended to resemble a lace doily. To achieve this, the drawing area is divided in to sectors radiating out from a central point. Any point drawn in any sector is also drawn at the same relative position in every other sector. In addition to this the points are reflected across each sector.
 
-Funtionalities:
+Functionalities:
 - ability to cleart he doily display
 - ability to change the colour and size of the pen for the doily to be drawn in
 - ability to change the number of sectors that the display is divided into
